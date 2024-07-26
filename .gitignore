@@ -1,0 +1,73 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+*.egg
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Data files
+*.csv
+*.json
+*.xml
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# OpenCV specific
+*.yml
+
+# Environment variables
+.env
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Pytest cache
+.cache/
+*.cover
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.hypothesis/
