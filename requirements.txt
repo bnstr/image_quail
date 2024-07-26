@@ -1,0 +1,7 @@
+requests==2.31.0                  # HTTP requests for downloading images
+pandas== 1.3.5                    # data manipulation and analysis
+opencv-python-headless==4.7.0.72  # image processing and checking resolution/clarity
+scikit-image==0.19.3              # image quality assessment (brightness, contrast)
+numpy==1.21.6                     # numerical operations (used by scikit-image)
+Pillow==9.5.0                     # image metadata extraction (EXIF data)
+scikit-learn==1.0.2               # advanced image processing and metrics
